@@ -34,8 +34,7 @@ Welcome Page
 <img width="761" alt="Screenshot 2025-06-07 at 2 03 27 AM" src="https://github.com/user-attachments/assets/4c9db332-b856-494e-b99e-f377b78b7a6a" />
 
 
-Dashboard
-<img width="760" alt="Screenshot 2025-06-07 at 2 02 31 AM" src="https://github.com/user-attachments/assets/190a3f19-5110-4ecf-a885-e951b4287833" />
+![Spotify Dashboard](<img width="760" alt="Screenshot 2025-06-07 at 2 02 31 AM" src="https://github.com/user-attachments/assets/190a3f19-5110-4ecf-a885-e951b4287833" />)
 
 
 
@@ -43,7 +42,6 @@ Dashboard
 
 ## 🚀 How to Use
 
-https://github.com/user-attachments/assets/989ae70d-418e-4418-b995-f642eaed5589
 
 
 
