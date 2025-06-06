@@ -30,18 +30,10 @@ The dataset used in this project is already uploaded in the repository, the data
 ## 🖥️ Dashboard Preview
 
 
-Welcome Page
-<img width="761" alt="Screenshot 2025-06-07 at 2 03 27 AM" src="https://github.com/user-attachments/assets/4c9db332-b856-494e-b99e-f377b78b7a6a" />
 
 
-![Spotify Dashboard](<img width="760" alt="Screenshot 2025-06-07 at 2 02 31 AM" src="https://github.com/user-attachments/assets/190a3f19-5110-4ecf-a885-e951b4287833" />)
-
-
-
-
-
-## 🚀 How to Use
-
+<img width="754" alt="Screenshot 2025-06-07 at 2 08 47 AM" src="https://github.com/user-attachments/assets/e3453489-e786-4622-a857-df38498c0b03" />
+<img width="752" alt="Screenshot 2025-06-07 at 2 09 17 AM" src="https://github.com/user-attachments/assets/71574651-7bfc-4a23-ad4d-735709debba7" />
 
 
 
