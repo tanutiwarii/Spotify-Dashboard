@@ -33,10 +33,18 @@ The dataset used in this project is already uploaded in the repository, the data
 
 
 <img width="754" alt="Screenshot 2025-06-07 at 2 08 47 AM" src="https://github.com/user-attachments/assets/e3453489-e786-4622-a857-df38498c0b03" />
+
 <img width="752" alt="Screenshot 2025-06-07 at 2 09 17 AM" src="https://github.com/user-attachments/assets/71574651-7bfc-4a23-ad4d-735709debba7" />
 
 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-powerbi-dashboard.git
+   git clone https://github.com/tanutiwarii/spotify-dashboard.git
+
+## 📬 Contact
+
+* ✉️ [tannutiwari9953@gmail.com](mailto:tannutiwari9953@gmail.com)
+* 🔗 [Tannu Tiwari](https://www.linkedin.com/in/tannu-tiwari-023177242/)
+
+---
