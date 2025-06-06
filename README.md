@@ -48,3 +48,6 @@ The dataset used in this project is already uploaded in the repository, the data
 * 🔗 [Tannu Tiwari](https://www.linkedin.com/in/tannu-tiwari-023177242/)
 
 ---
+## 📄 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
